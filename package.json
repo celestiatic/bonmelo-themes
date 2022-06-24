@@ -1,0 +1,23 @@
+{
+  "name": "themes",
+  "version": "1.0.0",
+  "description": "## Respository Folder Structure",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev_build": "npm run clearBuild && ts-node src/build.ts",
+    "build": "npx ts-node src/build.ts",
+    "clearBuild": "rimraf built"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celestiatic/bonmelo-themes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celestiatic/bonmelo-themes/issues"
+  },
+  "homepage": "https://github.com/celestiatic/bonmelo-themes#readme"
+}
