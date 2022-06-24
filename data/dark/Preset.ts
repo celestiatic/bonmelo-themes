@@ -3,10 +3,10 @@ import { TypeThemeData } from "../../typings/ThemeData";
 
 const themeData: TypeThemeData = {
   metadata: {
-    nameId: "dark",
-    name: "Dark",
-    creator: "lav's husband",
-    description: "A dark theme for the Bonmelo client.",
+    nameId: "moonlightDark",
+    name: "Moonlight Dark",
+    creator: "Afnan",
+    description: "A unofficial moonlight dark theme for Bonmelo.",
     tags: ["dark"],
     version: "1.0.0",
   },
